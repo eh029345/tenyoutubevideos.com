@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>tenyoutubevideos.com</title>
+  </head>
+  <body>
+<h1>tenyoutubevideos.com</h1>
+    <h3>Each week, I will post 10 different Youtube videos, replacing old ones with new ones. Come back each day to get unique Youtube surprises!</h3>
+    <!--Ten Youtube videos go below.-->
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/TAYTbkAD6Xg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/bRZbuVotOkE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/HbUiHlhjegY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/DlKOABVgPj8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/DqNqLRCmfE4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/cRn6LZpKsI0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/TmDCI1LXzpE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/UGys_c5PHH0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/f8md1CNI7nY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="640" height="480" src="https://www.youtube.com/embed/ZJMr4X5BaeI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<h5>Copyright &copy 2018 eh029345</h5>
+    <style>
+      body {
+        background-color: grey;
+        font-family: sans-serif;
+        color: black;
+      }
+  </body>
+</html>
